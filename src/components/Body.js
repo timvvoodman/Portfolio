@@ -5,7 +5,7 @@ import Headshot from "../assets/images/Prof Pic.jpg";
 function Body() {
   return (
     <>
-      <Container fluid className="general-background">
+      <Container fluid className=" general-background">
         <Row style={{ padding: "20px" }}>
           <Col md={3}></Col>
           <Col md={6}>

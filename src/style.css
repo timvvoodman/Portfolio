@@ -2,12 +2,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Cardo&family=Oswald&display=swap");
 
 html,
-body,
-#root,
-.App {
-  height: 100vh;
+body {
+  height: 100%;
 }
 
+#root {
+  height: 100%;
+}
 /* common styles*/
 .general-background {
   background-color: #393e46;

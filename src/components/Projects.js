@@ -111,7 +111,7 @@ function Projects() {
                   <Card.Text>
                     <p>
                       <a href="https://github.com/timvvoodman/Coding-Quiz">
-                        <b>GitHub Repo</b>
+                        GitHub Repo
                       </a>
                     </p>
                     <p>

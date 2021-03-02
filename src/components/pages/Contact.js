@@ -3,15 +3,15 @@ import React from "react";
 import MyNav from "../MyNav";
 import Footer from "../Footer";
 //BootStrap Components
-import { Col, Row, Card, Button, Form, Container } from "react-bootstrap";
+import { Col, Row, Form, Container } from "react-bootstrap";
 
 function Contact() {
   return (
     <>
       <MyNav />
-      <Container fluid className="general-background">
-        <Row className="flex-grow-1" style={{ padding: "20px" }}>
-          <Col class="col-md-3"></Col>
+      <Container fluid className="general-background h-100">
+        <Row style={{ padding: "20px" }}>
+          <Col md={3}></Col>
           <Col md={6}>
             <Row>
               <Col className="text-center">
@@ -23,7 +23,7 @@ function Contact() {
                 <Form>
                   <Form.Group controlId="formGroupEmail">
                     <Form.Label className="labelTextColor">
-                      Email address
+                      Email Address
                     </Form.Label>
                     <Form.Control type="email" placeholder="Email" />
                   </Form.Group>
