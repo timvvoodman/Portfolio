@@ -1,5 +1,5 @@
 import React from "react";
-import MyResume from "../assets/2021 Format Resume.pdf";
+import MyResume from "../components/assets/2021 Format Resume.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
