@@ -1,11 +1,7 @@
 # 🏆 React-Portfolio 🏆
 
-[![Size](https://img.shields.io/github/repo-size/timvvoodman/portfolio)
-[![Language](https://img.shields.io/github/languages/top/timvvoodman/portfoliogit)
-
-## Screenshot / GIF of the application (Demo)
-
-![Demo Screenshot / GIF](Link)
+[![Size](https://img.shields.io/github/repo-size/timvvoodman/Portfolio)
+[![Language](https://img.shields.io/github/languages/top/timvvoodman/Portfoliogit)
 
 ## Application Description
 
@@ -27,7 +23,7 @@ This is my portfolio and my first fully functioning React application.
 
 ## Demo
 
-View the application at [Deployed Project Link](Link)
+View the application at [Deployed Project Link](https://timwoodmanportfolio.herokuapp.com/)
 
 ## Technology Stack
 
