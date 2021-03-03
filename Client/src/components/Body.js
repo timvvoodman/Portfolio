@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import Headshot from "../assets/images/Prof Pic.jpg";
+import Headshot from "../components/assets/images/Prof Pic.jpg";
 
 function Body() {
   return (
