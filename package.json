@@ -1,7 +1,7 @@
 {
   "name": "tim-woodman-portfolio",
   "version": "1.0.0",
-  "description": "Tim Woodman's Web Development Portfolio",
+  "description": "Tim Woodman's Web Development React Portfolio",
   "main": "server.js",
   "engines": {
     "node": "14.15.0"
