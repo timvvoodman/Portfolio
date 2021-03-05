@@ -1,9 +1,9 @@
 import React from "react";
 import { Col, Row, Card, Container } from "react-bootstrap";
-import PlotsofGold from "../components/assets/images/PlotsofGold.PNG";
-import DayPlanner from "../components/assets/images/day planner.PNG";
-import HikerHelper from "../components/assets/images/Hiker Helper.PNG";
-import CodingQuiz from "../components/assets/images/Coding Quiz.PNG";
+import PlotsofGold from "./assets/images/PlotsofGold.PNG";
+import DayPlanner from "./assets/images/day planner.PNG";
+import HikerHelper from "./assets/images/Hiker Helper.PNG";
+import CodingQuiz from "./assets/images/Coding Quiz.PNG";
 
 function Projects() {
   return (
