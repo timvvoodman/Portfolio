@@ -1,8 +1,8 @@
 {
   "name": "timothy-woodman-web-development-portfolio",
-  "homepage": "https://github.com/timvvoodman/Portfolio",
   "version": "1.0.0",
-  "proxy": "http://localhost:3000",
+  "homepage": ".",
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
