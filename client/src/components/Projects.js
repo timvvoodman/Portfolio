@@ -33,12 +33,12 @@ function Projects() {
                     <Card.Title>Plot of Gold</Card.Title>
                     <Card.Text>
                       <p>
-                        <a href="https://github.com/EddiePhi/Gardening-App">
+                        <a href="https://github.com/timvvoodman/Plot-Of-Gold">
                           GitHub Repo
                         </a>
                       </p>
                       <p>
-                        <a href="https://eddiephi-plots-of-gold.herokuapp.com/">
+                        <a href="https://plotofgold.herokuapp.com/">
                           Deployed Application
                         </a>
                       </p>
